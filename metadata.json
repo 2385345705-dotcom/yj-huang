@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Storyboard Generator",
+  "description": "A professional tool for generating consistent 3x3 storyboard grids based on reference images. Features AI-powered prompt reverse-engineering, custom camera shot selection, and bilingual output (CN/EN).",
+  "requestFramePermissions": []
+}
